@@ -1,0 +1,17 @@
+body {
+	background-color: rgba(227, 212, 126, 0.7);
+}
+
+#cat-container {
+	margin-top: 30px;
+}
+
+#cat-container img {
+	width: 200px;
+	background-color: aquamarine;
+}
+
+#wide-cat img{
+	width: 404px;
+	background-color: blueviolet;
+}
